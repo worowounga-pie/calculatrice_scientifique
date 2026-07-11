@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764339983 source:c:\users\pie\documents\zuzamenpie\calculatrice_scientifique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
